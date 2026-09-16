@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tgC3ren1.github.io/betpipo/sitemap.xml
+Sitemap: https://tgc3ren1.github.io/betpipo/sitemap.xml
